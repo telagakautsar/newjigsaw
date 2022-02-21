@@ -22,12 +22,12 @@
   "Categories": [
     {
       "name_category": "CAT",
-      "wallpaper_url": "http://kerikil.xyz/jigsaw/cat/logo.jpg"
+      "image": "http://kerikil.xyz/jigsaw/cat/logo.jpg"
     },
        
     {
       "name_category": "DOG",
-      "wallpaper_url": "http://kerikil.xyz/jigsaw/dog/logo.jpg"
+      "image": "http://kerikil.xyz/jigsaw/dog/logo.jpg"
     }
     
 	  
