@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "CAT",
+      "wallpaper_url": "http://kerikil.xyz/jigsaw/cat/logo.jpg"
+    },
+       
+    {
+      "name_category": "DOG",
+      "wallpaper_url": "http://kerikil.xyz/jigsaw/dog/logo.jpg"
+    }
+    
+	  
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/1.jpg"
+    },
+	{
+      "id":2,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/2.jpg"
+    },
+	{
+      "id":3,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/3.jpg"
+    },
+	{
+      "id":4,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/4.jpg"
+    },
+	{
+      "id":5,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/5.jpg"
+    },
+	{
+      "id":6,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/6.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/7.jpg"
+    },
+	{
+      "id":8,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/8.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/9.jpg"
+    },
+	{
+      "id":10,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/10.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/11.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/12.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/13.jpg"
+    },
+	{
+      "id":14,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/14.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "CAT",
+      "title":"cat",
+      "image":"http://kerikil.xyz/jigsaw/cat/15.jpg"
+    },
+	
+    {
+      "id": 16,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/1.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/2.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/3.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/4.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/5.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/6.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/7.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/8.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/9.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/10.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/11.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/12.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/13.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/14.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "DOG",
+      "title": "dog",
+      "image": "http://kerikil.xyz/jigsaw/dog/15.jpg"
+    }
+    
+  ]
+}
